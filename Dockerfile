@@ -1,1 +1,2 @@
-From ubuntu
+FROM python
+RUN pip install influxdb
